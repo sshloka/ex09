@@ -6,7 +6,7 @@ layout: default
 # Data Analysis: COMP110 and Interdisciplinary Applications
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Summary
 
@@ -25,17 +25,17 @@ Below are the three key visualizations generated from the survey_izzi.csv datase
 ### Visualization 1: Number of Students per Primary Major
 This bar chart illustrates the wide variety of primary majors currently enrolled in COMP110. It highlights that the "Non-CS" stakeholder group is large and academically diverse. 
 
-<img src="<custom-path>/static/imgs/students.png" alt="Bar Chart of Primary Majors enrolled in COMP110. "  width="500"/>
+<img src="static/imgs/students.png" alt="Bar Chart of Primary Majors enrolled in COMP110. "  width="500"/>
 
 ### Visualization 2: Interest Comparison (CS vs. Non-CS)
 I then compared the "Interest in Field Connections" ratings between CS and Non-CS students. The box plot shows that Non-CS students have a very high median interest in seeing these connections. 
 
-<img src="<custom-path>/static/imgs/interest.png" alt="Box Plot of Interest in Field Connections. "  width="500"/>
+<img src="static/imgs/interest.png" alt="Box Plot of Interest in Field Connections. "  width="500"/>
 
 ### Visualization 3: Density of Student Interest 
 The histogram shows the density of student ratings. A large group of students, particularly non-majors, provided ratings of 5, 6, or 7, indicating a strong desire for practical, interdisciplinary applications. 
 
-<img src="<custom-path>/static/imgs/value.png" alt="Histogram of the density of students' value of interdiscplinary connections. "  width="500"/>
+<img src="static/imgs/value.png" alt="Histogram of the density of students' value of interdiscplinary connections. "  width="500"/>
 
 ## Conclusion
 Based on the analysis of the COMP110 survey data (specifically survey_izzi), our idea that the course should provide examples of applications in other fields to support learning is strongly supported by the data.
