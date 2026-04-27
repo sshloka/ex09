@@ -26,3 +26,5 @@ Below are the three key visualizations generated from the survey_izzi.csv datase
 This bar chart illustrates the wide variety of primary majors currently enrolled in COMP110. It highlights that the "Non-CS" stakeholder group is large and academically diverse. 
 
 <img src="<custom-path>/static/imgs/Number of Students per Primary Majors.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+
+test
